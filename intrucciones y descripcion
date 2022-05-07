@@ -1,0 +1,5 @@
+tp integrador de express
+antes de todo en la consola ejecutar para poder intalar express
+npm install expres
+
+se creao una pagina con node-express donde se muestra la  información de las Heroínas y los Héroes Tecnológicos más representativos del ámbito de la programación
